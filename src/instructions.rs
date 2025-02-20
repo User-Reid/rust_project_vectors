@@ -31,7 +31,7 @@ that index position.
  
 In the `main` function, use the `new` function to
 create a Folder instance with a `name` of your choosing.
- 
+
 Call the `create_file` method two times. Print out
 the Folder in Debug format.
  
